@@ -17,6 +17,6 @@ By default, the app will use a cached set of rsvp image urls.
 For the full experience: 
 - Get an API key from www.meetup.com
 - Set MeetupConfig.ApiKey in MeetupClasses.cs to your key
-- Optionally set MeetupConfig.MeetupEventId to another event id for near infinite variation and playability.
+- Optionally set MeetupConfig.MeetupEventId to another event id for near infinite variation and replayability.
 
 Slides from the presentation included in pptx and pdf format.
